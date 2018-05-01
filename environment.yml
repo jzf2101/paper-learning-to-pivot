@@ -1,0 +1,20 @@
+name: pivot
+channels:
+- conda-forge
+dependencies:
+- keras
+- numpy
+- pickle
+- sys
+- scikit-learn
+- theano
+- matplotlib
+- ipython
+- h5py
+- glob
+- notebook
+- jupyterlab
+- pip:
+  - jupyterlab_latex
+  - git+https://github.com/diana-hep/carl.git
+
