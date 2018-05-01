@@ -9,7 +9,6 @@ dependencies:
 - matplotlib
 - ipython
 - h5py
-- glob
 - notebook
 - jupyterlab
 - pip:
